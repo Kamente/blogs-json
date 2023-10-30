@@ -1,23 +1,25 @@
-[
+{
+  "blogs":[
   {
-      "id": 1,
-      "title": "Sample Blog Post 1",
-      "author": "Author 1",
-      "description": "This is the first sample blog post. Lorem ipsum dolor sit amet.",
-      "category": "Agriculture"
+    "id": 1,
+    "title": "Sample Blog Post 1",
+    "author": "Author 1",
+    "description": "This is the first sample blog post. Lorem ipsum dolor sit amet.",
+    "category": "Agriculture"
   },
   {
-      "id": 2,
-      "title": "Sample Blog Post 2",
-      "author": "Author 2",
-      "description": "This is the second sample blog post. Consectetur adipiscing elit.",
-      "category": "Farming"
+    "id": 2,
+    "title": "Sample Blog Post 2",
+    "author": "Author 2",
+    "description": "This is the second sample blog post. Consectetur adipiscing elit.",
+    "category": "Farming"
   },
   {
-      "id": 3,
-      "title": "Sample Blog Post 3",
-      "author": "Author 1",
-      "description": "This is the third sample blog post. Sed do eiusmod tempor incididunt ut labore.",
-      "category": "Agriculture"
+    "id": 3,
+    "title": "Sample Blog Post 3",
+    "author": "Author 1",
+    "description": "This is the third sample blog post. Sed do eiusmod tempor incididunt ut labore.",
+    "category": "Agriculture"
   }
 ]
+}
